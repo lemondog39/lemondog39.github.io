@@ -19,6 +19,15 @@ p {
   margin: 0 auto;
   text-align: center;
 }
+
+pre {
+  font-family: "Lovin Sans";
+  font-size: 20px;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
 img {
   display: block;
   margin-left: auto;
